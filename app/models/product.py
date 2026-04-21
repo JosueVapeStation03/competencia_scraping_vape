@@ -8,3 +8,4 @@ class Product(BaseModel):
     price: float
     old_price: Optional[float]
     url: str
+    source: str

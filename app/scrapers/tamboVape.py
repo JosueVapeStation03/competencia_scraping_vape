@@ -37,7 +37,8 @@ class TamboScraper:
                     title=title,
                     price=price,
                     old_price=None,
-                    url=f"https://www.tambo.pe{href}"
+                    url=f"https://www.tambo.pe{href}",
+                    source="TAMBO"
                 ))
 
             except:

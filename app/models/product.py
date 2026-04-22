@@ -9,3 +9,4 @@ class Product(BaseModel):
     old_price: Optional[float]
     url: str
     source: str
+    platform: Optional[str] = None

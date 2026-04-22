@@ -6,5 +6,8 @@ URLS = {
     ],
     "vaporclub": [
         "https://www.vaporclub.pe/collections/desechables"
+    ],
+    "rappi": [
+        "https://www.rappi.com.pe/shopping/vape"
     ]
 }
